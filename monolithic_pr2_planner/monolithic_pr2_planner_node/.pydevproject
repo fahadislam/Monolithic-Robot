@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.6</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>/opt/ros/groovy/stacks/arm_navigation/kinematics_msgs/src</path>
+<path>/opt/ros/groovy/stacks/arm_navigation/kinematics_msgs/lib</path>
+<path>/home/fahad/catkin_ws/src/sbpl_manipulation/sbpl_manipulation_components/src</path>
+<path>/home/fahad/catkin_ws/src/sbpl_manipulation/sbpl_manipulation_components/lib</path>
+<path>/home/fahad/catkin_ws/src/pr2_collision_checker/src</path>
+<path>/home/fahad/catkin_ws/src/pr2_collision_checker/lib</path>
+<path>/opt/ros/groovy/stacks/navigation/costmap_2d/src</path>
+<path>/opt/ros/groovy/stacks/navigation/costmap_2d/lib</path>
+<path>/opt/ros/groovy/stacks/arm_navigation/arm_navigation_msgs/src</path>
+<path>/opt/ros/groovy/stacks/pr2_kinematics/pr2_arm_kinematics/src</path>
+<path>/opt/ros/groovy/stacks/pr2_kinematics/pr2_arm_kinematics/lib</path>
+<path>/opt/ros/groovy/stacks/orocos_kinematics_dynamics/python_orocos_kdl/lib</path>
+<path>/home/fahad/catkin_ws/src/sbpl_manipulation/bfs3d/src</path>
+<path>/home/fahad/catkin_ws/src/sbpl_manipulation/bfs3d/lib</path>
+<path>/opt/ros/groovy/stacks/arm_navigation_experimental/distance_field/src</path>
+<path>/opt/ros/groovy/stacks/arm_navigation_experimental/distance_field/lib</path>
+<path>/home/fahad/catkin_ws/src/pviz/src</path>
+<path>/home/fahad/catkin_ws/src/pviz/lib</path>
+<path>/home/fahad/catkin_ws/src/ikfast_pr2/src</path>
+<path>/home/fahad/catkin_ws/src/ikfast_pr2/lib</path>
+<path>/home/fahad/catkin_ws/src/monolithic_pr2_planner/monolithic_pr2_planner/src</path>
+<path>/home/fahad/catkin_ws/src/monolithic_pr2_planner/monolithic_pr2_planner/lib</path>
+<path>/home/fahad/catkin_ws/src/leatherman/src</path>
+<path>/home/fahad/catkin_ws/src/leatherman/lib</path>
+<path>/opt/ros/groovy/stacks/arm_navigation/kinematics_base/lib</path>
+<path>/opt/ros/groovy/stacks/navigation/map_server/src</path>
+<path>/opt/ros/groovy/stacks/navigation/map_server/lib</path>
+<path>/opt/ros/groovy/stacks/navigation/voxel_grid/src</path>
+<path>/opt/ros/groovy/stacks/navigation/voxel_grid/lib</path>
+<path>/opt/ros/groovy/stacks/bullet/src</path>
+<path>/opt/ros/groovy/stacks/bullet/lib</path>
+<path>/home/fahad/catkin_ws/src/monolithic_pr2_planner/monolithic_pr2_planner_node/src</path>
+<path>/home/fahad/catkin_ws/src/monolithic_pr2_planner/monolithic_pr2_planner_node/lib</path>
+<path>/opt/ros/groovy/share/mk</path>
+<path>/opt/ros/groovy/lib/python2.7/dist-packages</path>
+<path>/usr/lib/python2.7</path>
+<path>/usr/lib/python2.7/plat-linux2</path>
+<path>/usr/lib/python2.7/lib-tk</path>
+<path>/usr/lib/python2.7/lib-dynload</path>
+<path>/usr/local/lib/python2.7/dist-packages</path>
+<path>/usr/lib/python2.7/dist-packages</path>
+<path>/usr/lib/python2.7/dist-packages/PIL</path>
+<path>/usr/lib/python2.7/dist-packages/gst-0.10</path>
+<path>/usr/lib/python2.7/dist-packages/gtk-2.0</path>
+<path>/usr/lib/pymodules/python2.7</path>
+<path>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</path>
+<path>/usr/lib/python2.7/dist-packages/ubuntuone-client</path>
+<path>/usr/lib/python2.7/dist-packages/ubuntuone-control-panel</path>
+<path>/usr/lib/python2.7/dist-packages/ubuntuone-couch</path>
+<path>/usr/lib/python2.7/dist-packages/ubuntuone-installer</path>
+<path>/usr/lib/python2.7/dist-packages/ubuntuone-storage-protocol</path>
+<path>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</path>
+</pydev_pathproperty>
+</pydev_project>

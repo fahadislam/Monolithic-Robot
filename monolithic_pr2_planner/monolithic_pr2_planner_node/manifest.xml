@@ -1,0 +1,28 @@
+<package>
+  <description brief="monolithic_pr2_planner_node">
+
+     monolithic_pr2_planner_node
+
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/full_body_planner_dual_arm</url>
+
+  <depend package="roscpp" />
+  <depend package="common_rosdeps" />
+  <depend package="geometry_msgs" />
+  <depend package="monolithic_pr2_planner" />
+  <depend package="leatherman" />
+  <depend package="pcl_ros" />
+  <depend package="kdl" />
+  <depend package="geometry_msgs" />
+  <depend package="sensor_msgs" />
+  <depend package="arm_navigation_msgs" />
+  <depend package="ompl" />
+  <depend package="costmap_2d"/>
+  <rosdep name="yaml-cpp" />
+
+</package>
+
+
